@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AltairAbdullah
+- 👋 Hi, I’m @Altair Abdullah
 - 👀 I’m interested in Cyber Security, Web Designing & Video Editing 
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me- e-mail: altair.abdullah@gmail.com
